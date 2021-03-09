@@ -1,0 +1,13 @@
+{
+    "python.formatting.provider": "autopep8",
+    "cSpell.words": [
+        "recieved",
+        "zomato"
+    ],
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "workbench.colorCustomizations": {
+    
+    },
+    "workbench.colorTheme": "Cute",
+    "workbench.editor.decorations.colors": true
+}

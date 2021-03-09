@@ -1,0 +1,6 @@
+ UberEats
+Deliveroo
+Just Eat
+Foodpanda
+Foodora
+Zomato
